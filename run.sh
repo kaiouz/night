@@ -1,0 +1,1 @@
+go run . -p 8080 -d /Users/zoukai/Downloads -c /Users/zoukai/temp
